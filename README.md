@@ -116,3 +116,4 @@ first.
 
 - [WAPC cli](https://github.com/wapc/cli-go) WebAssembly Procedure Calls command-line interface.
 - [wash](https://github.com/wasmCloud/wash) - WAsmcloud SHell - A multi-tool for various wasmcloud activities as well as an interactive REPL for a wasmcloud runtime host.
+- [WIDL-validator](https://jsoverson.github.io/widl-validator/) Validate your WIDL yo.
